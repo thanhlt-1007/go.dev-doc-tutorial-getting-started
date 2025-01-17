@@ -10,3 +10,9 @@
 gvm install go1.23.5
 gvm use go1.23.5
 ```
+
+## go run
+
+```sh
+go run .
+```
