@@ -11,6 +11,12 @@ gvm install go1.23.5
 gvm use go1.23.5
 ```
 
+## Install packages in go.mod
+
+```sh
+go mod download
+```
+
 ## go run
 
 ```sh
